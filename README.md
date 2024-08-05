@@ -16,3 +16,10 @@ You have to explore unknown dungeons in this game and go to the next dungeon by 
 - Resource Management:You can find different weapons by opening chests and exploring
 
 ## Gameplay
+![alt text](./Gameplay/1.png)
+![alt text](./Gameplay/2.png)
+![alt text](./Gameplay/3.png)
+![alt text](./Gameplay/4.png)
+![alt text](./Gameplay/5.png)
+![alt text](./Gameplay/6.png)
+![alt text](./Gameplay/7.png)
